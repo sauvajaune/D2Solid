@@ -1,0 +1,17 @@
+{
+    "name": "wap62/d",
+    "authors": [
+        {
+            "name": "ro vig",
+            "email": "ro@vig.com"
+        }
+    ],
+
+    "require": {},
+
+    "autoload" : {
+  	"psr-4" : {
+        	"" : ["./class/","./interface/"]
+        }    
+}
+}
